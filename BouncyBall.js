@@ -2,7 +2,7 @@ class BouncyBall{
 	constructor(x,y,r)
 	{
 		// var options={
-		// 	restitution:0.3
+		// 	restitution:0.4
 		// 	friction:5
 		// 	density:1
 		// }
@@ -14,7 +14,7 @@ class BouncyBall{
 		// }
 
 		 var options={
-		 	restitution:0.3,
+		 	restitution:0.4,
 		 	friction:5,
 		 	density:1
 		}
